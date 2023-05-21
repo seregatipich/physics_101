@@ -18,10 +18,11 @@ To run these scripts, you'll need to have Python installed on your computer. We 
 Usage
 Clone the repository using the following command:
 
-bash
+
 Copy code
-'''
+
+```
 git clone https://github.com/seregatipich/physics_101.git
-'''
+```
 
 Navigate into the directory of the topic you're interested in and run the Python script
